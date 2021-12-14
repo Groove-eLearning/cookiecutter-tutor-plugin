@@ -2,7 +2,7 @@
   "plugin_name": "myplugin",
   "package_name": "tutor-contrib-{{ cookiecutter.plugin_name }}",
   "module_name": "tutor{{ cookiecutter.plugin_name.lower().replace('-', '_') }}",
-  "git_repo": "https://github.com/myusername/{{cookiecutter.package_name }}",
-  "author": "John Doe",
+  "git_repo": "https://github.com/Groove-eLearning/{{cookiecutter.package_name }}",
+  "author": "Groove Technology",
   "license": "AGPLv3"
 }
