@@ -15,7 +15,7 @@ Usage
 
 ::
 
-    cookiecutter https://github.com/overhangio/cookiecutter-tutor-plugin.git
+    cookiecutter https://github.com/Groove-eLearning/cookiecutter-tutor-plugin.git
 
 Please keep the "contrib" part in your generated package name to differentiate from official plugins.
 
